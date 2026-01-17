@@ -24,8 +24,12 @@ Tailwind CSS (Modern, Responsive UI)
 
 Chart.js (Interactive Data Visualizations)
 
+
+
 Vanilla JavaScript (State Management & Logic)
 
 FontAwesome (Legal & Professional Iconography)
 
 Disclaimer: This project is an educational resource intended to simplify legal concepts and does not constitute legal advice.
+
+![Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&repo=bnss-roadmap&color=FFD700&style=flat-square&label=ROADMAP+VIEWS)
